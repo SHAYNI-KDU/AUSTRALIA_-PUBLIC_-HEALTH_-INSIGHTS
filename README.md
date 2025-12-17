@@ -1,7 +1,3 @@
-# AUSTRALIA_-PUBLIC_-HEALTH_-INSIGHTS
-Western Australia Public Health Insights Dashboard built using SQL Server and Power BI. This project analyzes real-world public health data including maternal health, alcohol risk, cancer incidence, injuries, fertility, and population trends to support data-driven healthcare planning and policy decisions.
-
-
 # Western Australia Public Health Insights Dashboard
 Project Overview
 This project presents an interactive **Public Health Insights Dashboard for Western Australia**, developed using **SQL Server** and **Microsoft Power BI**. The main objective is to analyze and visualize real-world public health data to identify trends, risks, and disparities across regions and years.The dashboard supports evidence-based decision-making for healthcare providers, researchers, and policymakers by transforming complex health datasets into clear, actionable insights.
