@@ -9,15 +9,15 @@ This project aims to provide data-driven insights for policymakers, healthcare p
 
 ## Objectives
 
--Import and manage public health datasets using SQL Server
+- Import and manage public health datasets using SQL Server
 
--Clean and transform raw data for analysis
+- Clean and transform raw data for analysis
 
--Build interactive visual dashboards using Power BI
+- Build interactive visual dashboards using Power BI
 
--Identify key trends in health indicators such as birth rates, alcohol usage, cancer incidence, and injuries
+- Identify key trends in health indicators such as birth rates, alcohol usage, cancer incidence, and injuries
 
--Support data-informed public health strategies
+- Support data-informed public health strategies
 
 
 ## Methodology
