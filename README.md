@@ -38,47 +38,47 @@ Imported datasets into Microsoft SQL Server
 
 ## Dashboard Visualizations
  
-- Total Potentially Preventable Hospitalizations (PPH) 
-    -Donut Chart showing Acute, Chronic, and Vaccine-preventable conditions
-    -DAX functions used to calculate proportions
-    -Highlights the major contributors to hospitalizations
+- Total Potentially Preventable Hospitalizations (PPH)  :
+    Donut Chart showing Acute, Chronic, and Vaccine-preventable conditions
+    ,DAX functions used to calculate proportions
+    ,Highlights the major contributors to hospitalizations
 
-- Low Birth Weight Trends
-    -Shows birth weight trends (2010–2014) by region
-    -Identifies disparities between metropolitan and rural areas
-    -Recommends mobile healthcare and nutrition programs
+- Low Birth Weight Trends:
+    Shows birth weight trends (2010–2014) by region
+    ,Identifies disparities between metropolitan and rural areas
+    ,Recommends mobile healthcare and nutrition programs
 
-- Risk of Alcohol Usage
-  -Line chart visualizing alcohol-related harm rate changes
-  -DAX-based year-over-year risk growth calculations
-  -Provides actionable insights for awareness campaigns and policy regulation
+- Risk of Alcohol Usage:
+  Line chart visualizing alcohol-related harm rate changes
+  ,DAX-based year-over-year risk growth calculations
+  ,Provides actionable insights for awareness campaigns and policy regulation
 
-- Cancer Incidents
-  -Decomposition Tree showing population breakdown by cancer type
-  -Regional and gender-based comparisons for breast, lung, prostate, and colorectal cancers
+- Cancer Incidents :
+  Decomposition Tree showing population breakdown by cancer type
+  ,Regional and gender-based comparisons for breast, lung, prostate, and colorectal cancers
 
-- Fertility & Stillbirth Rates
-  -Line and Clustered Column Chart
-  -Fertility rates averaged 1.85 births/woman (2009–2014)
-  -Consistent stillbirth rates (~0.45%) indicate effective maternal healthcare
+- Fertility & Stillbirth Rates :
+  Line and Clustered Column Chart
+  ,Fertility rates averaged 1.85 births/woman (2009–2014)
+  ,Consistent stillbirth rates (~0.45%) indicate effective maternal healthcare
 
-- Injuries and Poisoning Contributions
-  -Waterfall Chart highlighting decreases in accidents and poisoning rates
-  -Uses DAX to calculate injury contributions dynamically
-  -Demonstrates effectiveness of public safety policies
+- Injuries and Poisoning Contributions:
+  Waterfall Chart highlighting decreases in accidents and poisoning rates
+  ,Uses DAX to calculate injury contributions dynamically
+  ,Demonstrates effectiveness of public safety policies
 
-- Age-Standardized Birth Rates (ASBR)
+- Age-Standardized Birth Rates (ASBR):
  -Line Chart for age-specific birth rate variations
  -Identifies teenage pregnancy trends and socioeconomic impacts
 
-- Consumer Health Indicators (Card Visuals)
-  -Average daily fruit and vegetable intake
-  -Physical activity rates
-  -Smoking prevalence
-  -Male-to-female ratio and total population metrics
+- Consumer Health Indicators (Card Visuals):
+  Average daily fruit and vegetable intake
+  ,Physical activity rates
+  ,Smoking prevalence
+  ,Male-to-female ratio and total population metrics
 
-- Slicers
-  - Region and Year filters (2009–2014) for dynamic interactivity
+- Slicers:
+  Region and Year filters (2009–2014) for dynamic interactivity
 
 ## Key Insights
 
